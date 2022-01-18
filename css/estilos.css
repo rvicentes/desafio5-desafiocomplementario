@@ -1,0 +1,20 @@
+a{
+    color: black;
+    font-size: 25px;
+}
+
+.nav-link{
+    color: black;
+}
+
+.active{
+    font-weight: bold;
+}
+
+.navbar-brand{
+    font-size: 30px;
+}
+
+a:hover{
+    text-decoration: underline white;
+}
